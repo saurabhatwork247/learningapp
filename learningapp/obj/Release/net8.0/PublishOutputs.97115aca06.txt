@@ -1,0 +1,7 @@
+D:\Z_SWITCH\UDEMY\AZURE\Alan-AZ-204\S2\TMP2\learningapp\bin\Publish\learningapp.exe
+D:\Z_SWITCH\UDEMY\AZURE\Alan-AZ-204\S2\TMP2\learningapp\bin\Publish\appsettings.Development.json
+D:\Z_SWITCH\UDEMY\AZURE\Alan-AZ-204\S2\TMP2\learningapp\bin\Publish\appsettings.json
+D:\Z_SWITCH\UDEMY\AZURE\Alan-AZ-204\S2\TMP2\learningapp\bin\Publish\learningapp.dll
+D:\Z_SWITCH\UDEMY\AZURE\Alan-AZ-204\S2\TMP2\learningapp\bin\Publish\learningapp.deps.json
+D:\Z_SWITCH\UDEMY\AZURE\Alan-AZ-204\S2\TMP2\learningapp\bin\Publish\learningapp.runtimeconfig.json
+D:\Z_SWITCH\UDEMY\AZURE\Alan-AZ-204\S2\TMP2\learningapp\bin\Publish\learningapp.pdb
